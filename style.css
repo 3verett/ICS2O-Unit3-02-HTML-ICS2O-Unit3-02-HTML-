@@ -1,0 +1,16 @@
+.smilingRedGuy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+.table1, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.coloredtext {
+  color: blueviolet;
+}
